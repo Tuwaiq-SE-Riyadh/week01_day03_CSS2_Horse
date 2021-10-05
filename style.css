@@ -1,0 +1,45 @@
+img{
+    block-size: 3in;
+    /*display: block;
+    margin-left: auto;
+    margin-right: auto;*/
+    border: 3px solid purple;
+    padding: 5px;
+    /* i serch for the image center feauture and find the answer in HTML Online
+   url: https://html-online.com/articles/image-align-center/ */
+    display: block;
+    margin: 10px auto 20px;
+   
+
+    
+}
+span{
+    font-weight: bold;
+    text-decoration: underline;
+
+}
+/*p{
+    border: 5px dashed purple;
+    padding: 5px;
+    background-color: pink;
+    overflow-y:scroll;
+}*/
+div#bigdiv{
+    block-size: 8in;
+    background-color: palegoldenrod;
+    border: 3px solid purple;
+    padding: 5px;
+
+    display: block;
+    margin-left: 10cm;
+    margin-right: 10cm;
+}
+div.small{
+    block-size: 3in;
+    border: 5px dashed purple;
+    padding: 5px;
+    background-color: pink;
+    /* i serch for the scroll bar feauture and find the answer in educba
+   url: https://www.educba.com/scrollbar-in-html-table/ */
+    overflow-y:scroll;
+}
