@@ -1,0 +1,21 @@
+.center{
+    margin: auto;
+  width: 60%;
+  border: 3px solid brown;
+  background-color: cornsilk;
+  padding: 10px;
+}
+
+img{
+    border: solid brown;
+}
+
+p.dashed{
+    border-style:  dashed;
+    border-color:orange;
+    background-color: yellow;
+    width: fit-content;
+  height: 210px;
+  overflow: auto;
+}
+
