@@ -1,0 +1,35 @@
+.MainDvi{
+    background-color: wheat;
+    border: 3px solid red;
+    width: 400px;
+    height: 700px;
+    margin-left: 550px;
+}
+.image{
+    border: 5px solid red;
+    width: 350px;
+    height: 300px;
+    margin: 20px;
+
+}
+.information{
+    background-color: yellow;
+    border: 6px dashed red;
+    overflow: scroll;
+
+    width: 350px;
+    height: 280px;
+    margin: 20px;
+    
+
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+p{
+    padding: 5px;
+}
+h3{
+    margin-left: 20px;
+}
