@@ -1,6 +1,6 @@
 .center{
     margin: auto;
-  width: 60%;
+  width: 40%;
   border: 3px solid brown;
   background-color: cornsilk;
   padding: 10px;
@@ -15,7 +15,7 @@ p.dashed{
     border-color:orange;
     background-color: yellow;
     width: fit-content;
-  height: 210px;
-  overflow: auto;
+    height: 150px;
+    overflow: auto;
 }
 
