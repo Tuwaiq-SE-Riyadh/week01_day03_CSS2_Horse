@@ -1,0 +1,43 @@
+.center_div{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px outset peru;
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+    width: 45rem;
+    background: khaki;
+   
+}
+img{
+  
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        border: 5px solid peru;
+        width:90%;
+        margin-bottom: 3rem;
+}
+h1{
+    color: purple;
+    margin-left: 3rem;
+}
+.text_div{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px dashed peru;
+    width:40rem;
+    overflow: scroll;
+    height: 12rem;
+    margin: 2rem;
+    background: yellow;
+}
+span{
+    font-weight: bold;
+    text-decoration: underline;
+
+}
+p{
+    margin: 1rem;
+}
