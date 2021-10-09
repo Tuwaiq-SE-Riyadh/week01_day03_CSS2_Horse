@@ -1,9 +1,3 @@
 # week01_day03_CSS2_Horse
-## Task 
-* Add appropriate margin, border, and padding to the text div.
-* Add appropriate border to the image.
-* Create a div for all of the page content and center that in the middle of the page.
-* Add appropriate border and padding to that div.
- 
-### The ouput
-![output](output.png)
+- Result
+![image](https://user-images.githubusercontent.com/72529306/136674612-57f08792-28db-471f-9854-12849da87136.png)
