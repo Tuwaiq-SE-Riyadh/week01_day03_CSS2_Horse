@@ -1,0 +1,46 @@
+
+.div-page {
+    background-color: rgb(247, 247, 220);
+    width: 700px;
+    padding: 8px;
+    border: 5px solid rgb(173, 106, 30);
+    margin: auto ;
+}
+img {
+    border: 8px solid rgb(177, 111, 36);
+    width: 555px;
+    display: block; /*  to center the image */
+    margin: 1em auto;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 30px;
+    margin: 10px;
+}
+
+p {
+    font-size: 15px;
+}
+#firstpragraph {
+    font-weight: bold;
+    font-size: 17px;
+    text-decoration: underline;
+}
+
+#secondparagraph {
+    font-weight: bold;
+    font-size: 17px;
+    text-decoration: underline;
+}
+
+#prgraph {
+    background-color: yellow;
+    border: 7px dashed rgb(230, 152, 64); 
+    width: 555px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 250px;
+    overflow-y: scroll;
+} 
